@@ -10,6 +10,7 @@ namespace SendCloud\Laravel;
 
 use SendCloud\SendCloud;
 use SendCloud\SendCloudSMS;
+use Illuminate\Support\ServiceProvider;
 
 class SendCloudServiceProvider extends ServiceProvider
 {
